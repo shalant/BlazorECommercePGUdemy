@@ -9,6 +9,23 @@
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
+            //composite key
+            modelBuilder.Entity<ProductVariant>()
+                .HasKey(p => new { p.ProductId, p.ProductTypeId});
+
+            modelBuilder.Entity<ProductType>().HasData(
+                    new ProductType { Id = 1, Name = "Default" },
+                    new ProductType { Id = 2, Name = "Paperback" },
+                    new ProductType { Id = 3, Name = "E-Book" },
+                    new ProductType { Id = 4, Name = "Audiobook" },
+                    new ProductType { Id = 5, Name = "Stream" },
+                    new ProductType { Id = 6, Name = "Blu-ray" },
+                    new ProductType { Id = 7, Name = "VHS" },
+                    new ProductType { Id = 8, Name = "PC" },
+                    new ProductType { Id = 9, Name = "PlayStation" },
+                    new ProductType { Id = 10, Name = "Xbox" }
+                );
+
             modelBuilder.Entity<Category>().HasData(
                 new Category
                 {
@@ -37,7 +54,6 @@
                     Title = "The Hitchhiker's Guide to the Galaxy",
                     Description = "The Hitchhiker's Guide to the Galaxy[a][b] is a comedy science fiction franchise created by Douglas Adams. Originally a 1978 radio comedy broadcast on BBC Radio 4, it was later adapted to other formats, including novels, stage shows, comic books, a 1981 TV series, a 1984 text adventure game, and 2005 feature film.",
                     ImageUrl = "https://upload.wikimedia.org/wikipedia/en/b/bd/H2G2_UK_front_cover.jpg",
-                    Price = 9.99m,
                     CategoryId = 1
                 },
                 new Product
@@ -46,7 +62,6 @@
                     Title = "Ready Player One",
                     Description = "Ready Player One is a 2018 American science fiction film based on Ernest Cline's novel of the same name. Directed by Steven Spielberg from a screenplay by Zak Penn and Cline, it stars Tye Sheridan, Olivia Cooke, Ben Mendelsohn, Lena Waithe, T.J. Miller, Simon Pegg, and Mark Rylance. The film is set in 2045, where much of humanity uses the OASIS, a virtual reality simulation, to escape the real world. A teenage orphan finds clues to a contest that promises ownership of the OASIS to the winner, and he and his allies try to complete it before an evil corporation can do so.",
                     ImageUrl = "https://upload.wikimedia.org/wikipedia/en/7/74/Ready_Player_One_%28film%29.png",
-                    Price = 7.99m,
                     CategoryId = 1
                 },
                 new Product
@@ -55,7 +70,6 @@
                     Title = "Nineteen Eighty-Four",
                     Description = "Nineteen Eighty-Four (also published as 1984) is a dystopian social science fiction novel and cautionary tale by English writer George Orwell. It was published on 8 June 1949 by Secker & Warburg as Orwell's ninth and final book completed in his lifetime. Thematically, it centres on the consequences of totalitarianism, mass surveillance and repressive regimentation of people and behaviours within society.[2][3] Orwell, a democratic socialist, modelled the authoritarian state in the novel on the Soviet Union in the era of Stalinism, and Nazi Germany.[2][3][4] More broadly, the novel examines the role of truth and facts within societies and the ways in which they can be manipulated.",
                     ImageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Animal_Farm_-_1st_edition.jpg/220px-Animal_Farm_-_1st_edition.jpg",
-                    Price = 6.99m,
                     CategoryId = 1
                 },
                 new Product
@@ -125,9 +139,124 @@
                         ImageUrl = "https://upload.wikimedia.org/wikipedia/commons/e/ee/Nintendo-Super-Famicom-Set-FL.jpg",
                     }
             );
+
+            modelBuilder.Entity<ProductVariant>().HasData(
+               new ProductVariant
+               {
+                   ProductId = 1,
+                   ProductTypeId = 2,
+                   Price = 9.99m,
+                   OriginalPrice = 19.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 1,
+                   ProductTypeId = 3,
+                   Price = 7.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 1,
+                   ProductTypeId = 4,
+                   Price = 19.99m,
+                   OriginalPrice = 29.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 2,
+                   ProductTypeId = 2,
+                   Price = 7.99m,
+                   OriginalPrice = 14.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 3,
+                   ProductTypeId = 2,
+                   Price = 6.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 4,
+                   ProductTypeId = 5,
+                   Price = 3.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 4,
+                   ProductTypeId = 6,
+                   Price = 9.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 4,
+                   ProductTypeId = 7,
+                   Price = 19.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 5,
+                   ProductTypeId = 5,
+                   Price = 3.99m,
+               },
+               new ProductVariant
+               {
+                   ProductId = 6,
+                   ProductTypeId = 5,
+                   Price = 2.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 7,
+                   ProductTypeId = 8,
+                   Price = 19.99m,
+                   OriginalPrice = 29.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 7,
+                   ProductTypeId = 9,
+                   Price = 69.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 7,
+                   ProductTypeId = 10,
+                   Price = 49.99m,
+                   OriginalPrice = 59.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 8,
+                   ProductTypeId = 8,
+                   Price = 9.99m,
+                   OriginalPrice = 24.99m,
+               },
+               new ProductVariant
+               {
+                   ProductId = 9,
+                   ProductTypeId = 8,
+                   Price = 14.99m
+               },
+               new ProductVariant
+               {
+                   ProductId = 10,
+                   ProductTypeId = 1,
+                   Price = 159.99m,
+                   OriginalPrice = 299m
+               },
+               new ProductVariant
+               {
+                   ProductId = 11,
+                   ProductTypeId = 1,
+                   Price = 79.99m,
+                   OriginalPrice = 399m
+               }
+           );
         }
 
         public DbSet<Product> Products { get; set; }
         public DbSet<Category> Categories { get; set; }
+        public DbSet<ProductType> ProductTypes { get; set; }
+        public DbSet<ProductVariant> ProductVariants { get; set; }
     }
 }
