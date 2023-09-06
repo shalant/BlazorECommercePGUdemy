@@ -11,19 +11,14 @@
     text-align: center;
 }
 
-.media[b-0l6p78lwiq] {
-    display: flex;
-    align-items: flex-start;
-}
-
-.media-body[b-0l6p78lwiq] {
-    flex: 1;
-}
 
 @media (max-width: 1023.98px) {
+    .media[b-0l6p78lwiq] {
+        flex-direction: column;
+    }
+
     .media-img[b-0l6p78lwiq] {
         max-width: 300px;
-
     }
 
     .media-img-wrapper[b-0l6p78lwiq] {
