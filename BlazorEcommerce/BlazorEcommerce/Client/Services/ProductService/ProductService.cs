@@ -23,7 +23,7 @@
         public async Task GetProducts(string? categoryUrl = null)
         {
             var result = categoryUrl == null ?
-                await _http.GetFromJsonAsync<ServiceResponse<List<Product>>>("api/product")
+                await _http.GetFromJsonAsync<ServiceResponse<List<Product>>>("api/product/featured")
                 : await _http.GetFromJsonAsync<ServiceResponse<List<Product>>>($"api/product/category/{categoryUrl}");
             if (result != null && result.Data !=null)
                 Products = result.Data;
@@ -33,7 +33,7 @@
 
         public async Task<List<string>> GetProductSearchSuggestions(string searchText)
         {
-            var result = await _http.GetFromJsonAsync<ServiceResponse<List<string>>>($"api/product/search/{searchText}");
+            var result = await _http.GetFromJsonAsync<ServiceResponse<List<string>>>($"api/product/searchsuggestions/{searchText}");
             return result.Data;
         }
 
@@ -42,9 +42,7 @@
             var result = await _http
                 .GetFromJsonAsync<ServiceResponse<List<Product>>>($"api/product/search/{searchText}");
             if(result != null && result.Data != null)
-            {
                 Products = result.Data;
-            }
             if (Products.Count == 0) Message = "No products found.";
             ProductsChanged?.Invoke();
 

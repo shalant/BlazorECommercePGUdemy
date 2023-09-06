@@ -32,6 +32,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/digdr/Documents/coding/BlazorECommercePGUdemy/BlazorEcommerce/BlazorEcommerce/Client/Shared/Search.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNlYXJjaC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/digdr/Documents/coding/BlazorECommercePGUdemy/BlazorEcommerce/BlazorEcommerce/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -44,6 +48,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdERldGFpbHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0l6p78lwiq
 
+[C:/Users/digdr/Documents/coding/BlazorECommercePGUdemy/BlazorEcommerce/BlazorEcommerce/Client/Shared/FeaturedProducts.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZlYXR1cmVkUHJvZHVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-mkldjm4yjh
+
+[C:/Users/digdr/Documents/coding/BlazorECommercePGUdemy/BlazorEcommerce/BlazorEcommerce/Client/Shared/HomeButton.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvbWVCdXR0b24ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-bhpobyacx5
+
 [C:/Users/digdr/Documents/coding/BlazorECommercePGUdemy/BlazorEcommerce/BlazorEcommerce/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-7v9fucczvh
@@ -55,3 +67,11 @@ build_metadata.AdditionalFiles.CssScope = b-d7qi8mznuc
 [C:/Users/digdr/Documents/coding/BlazorECommercePGUdemy/BlazorEcommerce/BlazorEcommerce/Client/Shared/ProductList.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFByb2R1Y3RMaXN0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-fx5atut3jr
+
+[C:/Users/digdr/Documents/coding/BlazorECommercePGUdemy/BlazorEcommerce/BlazorEcommerce/Client/Shared/ShopLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNob3BMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-eyye3xe6ci
+
+[C:/Users/digdr/Documents/coding/BlazorECommercePGUdemy/BlazorEcommerce/BlazorEcommerce/Client/Shared/ShopNavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFNob3BOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-d3ua3ebcma
