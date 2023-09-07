@@ -832,3 +832,7 @@ C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEco
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopNavMenu.razor.rz.scp.css
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\HomeButton.razor.rz.scp.css
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\FeaturedProducts.razor.rz.scp.css
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\UllaglRf.gz

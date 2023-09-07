@@ -24,6 +24,11 @@
     text-align: center;
 }
 
+.page-selection[b-fx5atut3jr] {
+    margin-right: 15px;
+    margin-bottom: 30px;
+}
+
 @media (max-width: 1023px) {
     .media[b-fx5atut3jr]{
         flex-direction:column;
