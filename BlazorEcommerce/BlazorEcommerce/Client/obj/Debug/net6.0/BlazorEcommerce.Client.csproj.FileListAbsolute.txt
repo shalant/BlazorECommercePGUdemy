@@ -4,6 +4,7 @@ C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEco
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\BlazorEcommerce.Client.pdb
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\BlazorEcommerce.Shared.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\BlazorEcommerce.Shared.pdb
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.6.0.14.2nnrse4sac.js
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.timezones.blat
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm
@@ -376,6 +377,7 @@ C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEco
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\System.AppContext.dll.gz
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\System.Net.Requests.dll.gz
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\mscorlib.dll.gz
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\System.ValueTuple.dll.gz
@@ -404,6 +406,7 @@ C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEco
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\BlazorEcommerce.Client.staticwebassets.runtime.json
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\BlazorEcommerce.Client.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\BlazorEcommerce.Client.pdb
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\Blazored.LocalStorage.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
@@ -608,6 +611,7 @@ C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEco
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\BlazorEcommerce.Client.AssemblyInfo.cs
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\BlazorEcommerce.Client.csproj.CoreCompileInputs.cache
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\BlazorEcommerce.Client.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\UllaglRf.gz
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\5NZ+Udq+.gz
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\fh2a2lvx.gz
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\+9xApmHq.gz
@@ -817,8 +821,14 @@ C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEco
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\staticwebassets.pack.json
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\FeaturedProducts.razor.rz.scp.css
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\HomeButton.razor.rz.scp.css
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ProductList.Razor.rz.scp.css
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopLayout.razor.rz.scp.css
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopNavMenu.razor.rz.scp.css
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\bundle\BlazorEcommerce.Client.styles.css
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\projectbundle\BlazorEcommerce.Client.bundle.scp.css
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\BlazorEcommerce.Client.csproj.CopyComplete
@@ -826,13 +836,3 @@ C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEco
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\refint\BlazorEcommerce.Client.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\BlazorEcommerce.Client.pdb
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\ref\BlazorEcommerce.Client.dll
-C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ProductList.Razor.rz.scp.css
-C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css
-C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopLayout.razor.rz.scp.css
-C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopNavMenu.razor.rz.scp.css
-C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\HomeButton.razor.rz.scp.css
-C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\FeaturedProducts.razor.rz.scp.css
-C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
-C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
-C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\bin\Debug\net6.0\Blazored.LocalStorage.dll
-C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\UllaglRf.gz
