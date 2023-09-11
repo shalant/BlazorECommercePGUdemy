@@ -25,8 +25,8 @@
 
     </div>
     <button type="submit" class="btn btn-primary">Register</button>
-    <div class="texdt-danger">
-        <span>@errorMessage</span>
+    <div class="@messageCssClass">
+        <span>@message</span>
     </div>
     <ValidationSummary />
 </EditForm>
@@ -34,14 +34,16 @@
 @code {
     UserRegister user = new UserRegister();
 
-    string errorMessage = string.Empty;
+    string message = string.Empty;
+    string messageCssClass = string.Empty;
 
     async Task HandleRegistration()
     {
         var result = await AuthService.Register(user);
-        if (!result.Success)
-            errorMessage = result.Message;
+        message = result.Message;
+        if (result.Success)
+            messageCssClass = "text-success";
         else
-            errorMessage = string.Empty;
+            messageCssClass = "text-danger";
     }
 }
