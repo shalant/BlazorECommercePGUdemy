@@ -17,6 +17,7 @@ C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEco
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Humanizer.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.dll
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Forms.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Web.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Components.WebAssembly.dll

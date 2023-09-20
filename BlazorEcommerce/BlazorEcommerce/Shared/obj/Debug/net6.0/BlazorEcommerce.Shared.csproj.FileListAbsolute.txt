@@ -1,6 +1,7 @@
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.deps.json
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.dll
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Shared\bin\Debug\net6.0\BlazorEcommerce.Shared.pdb
+C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.csproj.AssemblyReference.cache
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.AssemblyInfoInputs.cache
 C:\Users\digdr\Documents\coding\BlazorECommercePGUdemy\BlazorEcommerce\BlazorEcommerce\Shared\obj\Debug\net6.0\BlazorEcommerce.Shared.AssemblyInfo.cs
