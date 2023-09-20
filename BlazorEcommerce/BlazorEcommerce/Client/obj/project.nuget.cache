@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WtHXTTDbpNu3rXhQm6QvIHipzYkPnvccvCsO1ZWI0djV8PSLtHhPAsP5HFp31ylgBQqngsVuCTY3GpDB4ZnX7g==",
+  "dgSpecHash": "qaWbrGLAfaf7wEhEuIQr5+TTSJQ2eb/a58zxSzoNmhHbsyXgVYpCbXfoWQ8Er6uIpENOOaBchuK9XUukLQVwdg==",
   "success": true,
   "projectFilePath": "C:\\Users\\digdr\\Documents\\coding\\BlazorECommercePGUdemy\\BlazorEcommerce\\BlazorEcommerce\\Client\\BlazorEcommerce.Client.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.10\\microsoft.aspnetcore.authorization.6.0.10.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.10\\microsoft.aspnetcore.components.6.0.10.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.10\\microsoft.aspnetcore.components.analyzers.6.0.10.nupkg.sha512",
+    "C:\\Users\\digdr\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.10\\microsoft.aspnetcore.components.authorization.6.0.10.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.10\\microsoft.aspnetcore.components.forms.6.0.10.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.10\\microsoft.aspnetcore.components.web.6.0.10.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.10\\microsoft.aspnetcore.components.webassembly.6.0.10.nupkg.sha512",
@@ -34,7 +35,7 @@
     "C:\\Users\\digdr\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
     "C:\\Users\\digdr\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\digdr\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.14\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.14.nupkg.sha512"
+    "C:\\Users\\digdr\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.22\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.22.nupkg.sha512"
   ],
   "logs": []
 }
