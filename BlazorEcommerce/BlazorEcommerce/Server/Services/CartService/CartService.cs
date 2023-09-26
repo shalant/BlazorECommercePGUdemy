@@ -88,7 +88,7 @@ namespace BlazorEcommerce.Server.Services.CartService
 
             var sameItem = await _context.CartItems
                 .FirstOrDefaultAsync(ci => ci.ProductId == cartItem.ProductId &&
-                cartItem.ProductTypeId == cartItem.ProductTypeId && cartItem.UserId == cartItem.UserId);
+                ci.ProductTypeId == cartItem.ProductTypeId && ci.UserId == cartItem.UserId);
             if(sameItem == null)
             {
                 _context.CartItems.Add(cartItem);
@@ -107,7 +107,7 @@ namespace BlazorEcommerce.Server.Services.CartService
         {
             var dbCartItem = await _context.CartItems
                 .FirstOrDefaultAsync(ci => ci.ProductId == cartItem.ProductId &&
-                cartItem.ProductTypeId == cartItem.ProductTypeId && cartItem.UserId == _authService.GetUserId());
+                ci.ProductTypeId == cartItem.ProductTypeId && ci.UserId == _authService.GetUserId());
             if(dbCartItem == null)
             {
                 return new ServiceResponse<bool>
