@@ -13,7 +13,7 @@ namespace BlazorEcommerce.Server.Services.PaymentService
             IAuthService authService,
             IOrderService orderService)
         {
-            StripeConfiguration.ApiKey = "sk_test_51Nuh5DBpo6r0EzfcYPQnMwhcUCp3ylWrMGGY6qtoG4piIVVJexKO2dQMJFY5EvXqAlUmUdAUu9O5tboXTnnXpUU500eRnIXNfg";
+            StripeConfiguration.ApiKey = "REDACTED_STRIPE_KEY";
 
             _cartService = cartService;
             _authService = authService;
